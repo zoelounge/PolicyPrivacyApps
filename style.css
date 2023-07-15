@@ -1,0 +1,31 @@
+
+body {
+    margin: 3em;
+    padding: 0;
+    background: transparent;
+    font-family: "Exo2";
+    font-size: 40px;
+    text-align: auto;
+    background-color: #F5F5F5;
+    
+}
+
+p h2 {
+    padding: 3em;
+}
+
+h2 span{
+    line-height: 1.1;
+}
+
+span {
+    line-height: 1.4;
+}
+
+
+
+
+a {
+    text-decoration: none;
+    color: #339966;
+}
